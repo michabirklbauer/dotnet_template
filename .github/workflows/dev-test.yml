@@ -32,6 +32,7 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install pytest
       - name: Test with pytest
-        working-directory: bin/Release/net8.0/linux-x64/publish
         run: |
+          cd bin/Release/net8.0/linux-x64/publish
+          chmod u+x App
           pytest tests.py
