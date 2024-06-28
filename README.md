@@ -15,6 +15,7 @@ A template repository for building and testing .NET commandline applications.
 - Update all workflows in `.github/workflows`.
 - Write suitable tests in `.tests`.
 - Update name, description and version of your application in the `docs/Doxyfile` and generate documentation with [Doxygen](https://github.com/doxygen/doxygen).
+- Don't forget to update the binaries in `.release` as soon as you have a first version of your application.
 - Implement your .NET project! 😉
 
 ## Known Issues
