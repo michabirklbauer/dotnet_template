@@ -23,7 +23,7 @@ jobs:
       - name: Unzip application
         run: |
           cd .release/windows_x64
-          Expand-Archive -Force App.zip
+          Expand-Archive -Force App.zip .
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
