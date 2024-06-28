@@ -33,5 +33,5 @@ jobs:
           python -m pip install pytest
       - name: Test with pytest
         run: |
-          cd bin/Release/net8.0/win-x64/publish
+          cd bin/Release/net8.0/linux-x64/publish
           pytest tests.py
