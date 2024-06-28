@@ -34,5 +34,5 @@ jobs:
       - name: Test with pytest
         run: |
           cd bin/Release/net8.0/linux-x64/publish
-          chmod u+x App
+          chmod +x App
           pytest tests.py
