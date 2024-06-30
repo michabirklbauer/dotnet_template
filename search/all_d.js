@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['readme_2emd_0',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['repository_20for_20net_20c_20commandline_20applications_1',['Template Repository for .NET / C# Commandline Applications',['../index.html',1,'']]],
-  ['runapp_2',['RunApp',['../class_app_1_1_app.html#a51e0bd502e8a18b02a5f6efef7ff7307',1,'App::App']]]
+  ['success_0',['success',['../class_util_1_1_logger.html#a6378869ae13746f2e4333d89498d1940',1,'Util::Logger']]]
 ];

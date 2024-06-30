@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['_2enetcoreapp_2cversion_3dv8_2e0_2eassemblyattributes_2ecs_0',['.NETCoreApp,Version=v8.0.AssemblyAttributes.cs',['../_8_n_e_t_core_app_00_version_0av8_80_8_assembly_attributes_8cs.html',1,'']]]
+  ['app_0',['App',['../class_app_1_1_app.html',1,'App.App'],['../namespace_app.html',1,'App']]],
+  ['app_2ecs_1',['App.cs',['../_app_8cs.html',1,'']]],
+  ['applications_2',['Template Repository for .NET / C# Commandline Applications',['../index.html',1,'']]],
+  ['assemblyinfo_2ecs_3',['AssemblyInfo.cs',['../_assembly_info_8cs.html',1,'']]]
 ];

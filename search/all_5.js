@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['for_20net_20c_20commandline_20applications_0',['Template Repository for .NET / C# Commandline Applications',['../index.html',1,'']]]
+  ['greeting_0',['greeting',['../class_app_1_1_app_1_1_options.html#a6fc6b9a24d1f7e290883391aa3c9a090',1,'App::App::Options']]]
 ];

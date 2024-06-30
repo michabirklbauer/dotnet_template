@@ -1,8 +1,4 @@
 var searchData=
 [
-  ['c_20commandline_20applications_0',['Template Repository for .NET / C# Commandline Applications',['../index.html',1,'']]],
-  ['checklist_1',['Checklist',['../index.html#autotoc_md1',1,'']]],
-  ['citing_2',['Citing',['../index.html#autotoc_md3',1,'']]],
-  ['commandline_20applications_3',['Template Repository for .NET / C# Commandline Applications',['../index.html',1,'']]],
-  ['contact_4',['Contact',['../index.html#autotoc_md5',1,'']]]
+  ['dispose_0',['dispose',['../class_util_1_1_logger.html#a2580a23cca64b695b037d5131f2846e0',1,'Util::Logger']]]
 ];

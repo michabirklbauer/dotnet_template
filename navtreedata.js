@@ -51,7 +51,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_8_n_e_t_core_app_00_version_0av8_80_8_assembly_attributes_8cs.html"
+"_app_8cs.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
